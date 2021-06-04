@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: `https://abhaynikam.github.io/gatsby-nice-blog/`,
-  description: `A nice starter blog post boilerplate template built using Gatsby.`,
+  url: `https://oygevald.com/`,
+  description: `Search Engine Optimizer, dabbler of things, thoughts, and tech`,
   pathPrefix: '/',
   title: `David Ehrentreu's Notepad`,
   disqusShortname: '',

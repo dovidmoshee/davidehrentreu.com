@@ -45,7 +45,7 @@ const Layout = ({ location, title, children }) => {
           <footer className="d-flex">
             <div className="copyright-text">
               Copyright © {new Date().getFullYear()},&nbsp;
-              <a href="http://abhaynikam.me/">Abhay Nikam</a>
+              <a href="http://oygevald.com/">David Ehrentreu</a>
             </div>
             <div className="footer-icon-group">
               <FooterSocialIcons />
